@@ -1,3 +1,3 @@
-# CI-CD
-CI-CD Demo
-this is first readme file
+# maven-project
+
+Simple Maven Project
